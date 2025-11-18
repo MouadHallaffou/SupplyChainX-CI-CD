@@ -23,7 +23,7 @@
 git clone https://github.com/MouadHallaffou/SupplyChainX-CI-CD.git
 cd SupplyChainX-CI-CD
 
-# 2. Lancer avec Docker Compose (recommandé)
+# 2. Lancer avec Docker Compose
 docker-compose up -d
 
 # 3. Accéder à l'application
